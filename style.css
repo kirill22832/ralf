@@ -68,23 +68,3 @@ a {
 	   
    }
 
-
-
-   .block10 {
-      width: 749px;
-      height: 93px;
-      background: #C4C4C4;
-      padding: 0px;
-      border: solid 0px black;
-      float: center;
-      font-family: Verdana;
-      box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
-   }
-    #circle {
-      width: 10px;
-      height: 10px;
-      -webkit-border-radius: 5px;
-      -moz-border-radius: 5px;
-      border-radius: 5px;
-      background: #C4C4C4;
-    }
