@@ -48,10 +48,6 @@ a {
    }
 
    #navbar {
-	overflow: hidden;
-	position: fixed;
-	top: 0;
-	z-index: 1;
 	width: 100%;
 	background-color: white;
 	height: 70px;
@@ -66,7 +62,8 @@ a {
    	text-align: center;
    	padding: 23px 25px;
    	text-decoration: none;
-	   font-size: 20px;
+	   font-size: 23px;
+      border-radius: 0px 15px 15px 0;
       background-color:#3eb0f7;
 	   
    }
